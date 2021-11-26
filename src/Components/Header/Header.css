@@ -1,0 +1,33 @@
+.nav-link a, Link{
+    text-decoration: none;
+    color: #1b1b1b;
+    padding: 6px 10px;
+}
+
+.navbar{
+   box-shadow: 1px 1px 20px rgb(35 40 65 / 13%);
+   
+}
+.bg-myBg{
+    background-color: #fff;
+    
+}
+.custom-btn{
+    background-color: #0EBF7E;
+    color: #fff;
+    padding: 5px 25px;
+}
+
+.custom-btn2{
+    background-color:#18c082 ;
+    color: white;
+}
+.custom-color{
+    color: #0EBF7E;
+}
+.custom-color2{
+    color: #01a066;
+}
+.bg-brand{
+    background-color: #0EBF7E;
+}
